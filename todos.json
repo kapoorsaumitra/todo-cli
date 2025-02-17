@@ -1,0 +1,14 @@
+[
+    {
+      "task": "coding",
+      "completed": false
+    },
+    {
+      "task": "drink water",
+      "completed": true
+    },
+    {
+      "task": "create CLI tool to manage todos",
+      "completed": true
+    }
+]
